@@ -1,0 +1,7 @@
+My solutions for the problems published on projecteuler.net.
+
+Most of them use brute force since I still have to crunch through the math.
+
+Expect the prime number problems to take up to 30 minutes (I implemented the sieve of Eratosthenes).
+
+Of course you can fork this - but make sure to commit your solutions to Project Euler, too!
